@@ -1,6 +1,6 @@
 # service_store
 
-Frontend React + Vite para consumo do backend `store_front`.
+Frontend React + Vite para consumo do backend `store_back`.
 
 ## Estrutura
 
@@ -39,7 +39,7 @@ Exemplo atual:
 1. Suba o backend em outro terminal:
 
 ```powershell
-dotnet run --project ..\store_front\store_front.csproj
+dotnet run /store_back
 ```
 
 2. Suba o frontend nesta pasta:
