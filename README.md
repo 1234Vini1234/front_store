@@ -1,4 +1,4 @@
-# service_store
+# front_store
 
 Frontend React + Vite para consumo do backend `store_back`.
 
